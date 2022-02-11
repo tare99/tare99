@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="96">
         <img src="./img/css.png" width="48" height="48" alt="CSS" />
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="./img/ang.png" width="48" height="48" alt="Angular" />
