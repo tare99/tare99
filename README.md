@@ -6,7 +6,7 @@
 - 🌱 Currently learning Angular
 - 📌 Goals for 2022: Contribute more and improve my skills
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I've worked with
 
@@ -50,3 +50,7 @@
     </td>
   </tr>
 </table>
+
+<h3 align="left">Connect with me</h3>
+[instagram] https://www.instagram.com/44tare/
+[linkedin] https://www.linkedin.com/in/tarik-arnaut-ab41b8198/
