@@ -49,12 +49,11 @@ body{
 }
 
 </style>
-<body>
     <div class="wrapper">
         <div class="static-text">console.log</div>
         <span class="dynamic-text">("Hi there, I'm Tarik!"). . .</span>
     </div>
-</body>
+
 
       
 
