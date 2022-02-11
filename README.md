@@ -17,7 +17,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="./img/c#.png" width="48" height="48" alt="C#" />
+        <img src="./img/csharp.png" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
