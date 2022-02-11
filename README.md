@@ -55,8 +55,9 @@
 
 [<img align="left" alt="tare99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tarik-arnaut-ab41b8198/)
 [<img align="left" alt="44tare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/44tare/)
+<br>
 
-![](https://komarev.com/ghpvc/?username=tare99)
+![](https://komarev.com/ghpvc/?username=tare99&color=#0d1117&style=flat-square)
 
 
 
