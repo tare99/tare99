@@ -1,16 +1,67 @@
-### Hi there 👋
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello there</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #0d1117;
+}
+.wrapper{
+    display: inline-flex;
+}
+.static-text{
+    color:white;
+    font-size: 60px;
+    font-weight:400px ;
+}
+.dynamic-text{
+    color: #FC6D6D;
+    font-size: 60px;
+    font-weight: 400px;
+    position: relative;
+}
 
-<!--
-**tare99/tare99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.dynamic-text::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-left: 2px solid #FC6D6D ;
+    animation: typing 4s steps(30) infinite;
+    background-color: #0d1117;
+}
+@keyframes typing{
+    100%{
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</style>
+<body>
+    <div class="wrapper">
+        <div class="static-text">console.log</div>
+        <span class="dynamic-text">("Hi there, I'm Tarik!"). . .</span>
+    </div>
+</body>
+</html>
+  </foreignObject>
+</svg>
