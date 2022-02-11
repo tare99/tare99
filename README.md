@@ -1,14 +1,7 @@
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello there</title>
-</head>
-<style>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 *{
     margin: 0;
@@ -62,6 +55,9 @@ body{
         <span class="dynamic-text">("Hi there, I'm Tarik!"). . .</span>
     </div>
 </body>
-</html>
+
+      
+
+    </div>
   </foreignObject>
 </svg>
