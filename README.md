@@ -33,7 +33,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="./img/angular.png" width="48" height="48" alt="Angular" />
+        <img src="./img/ang.png" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
     <td align="center" width="96">
