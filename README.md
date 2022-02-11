@@ -55,5 +55,5 @@
 [<img align="left" alt="tare99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="44tare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/44tare/
-[linkedin]: https://www.linkedin.com/in/tarik-arnaut-ab41b8198/
+[instagram]:https://www.instagram.com/44tare/
+[linkedin]:https://www.linkedin.com/in/tarik-arnaut-ab41b8198/
