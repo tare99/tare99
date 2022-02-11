@@ -53,6 +53,6 @@
 
 <h3 align="left">Connect with me</h3>
 [<img align="left" alt="tare99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/44tare/)
-[<img align="left" alt="44tare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.linkedin.com/in/tarik-arnaut-ab41b8198/)
+
 
 
