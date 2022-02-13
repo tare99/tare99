@@ -2,7 +2,7 @@
 
 - 📚 Studying to be a Web developer
 - 🏢 Demonstrator at University "Džemal Bijedić" and 2nd year Business ICT student
-- ⚡ Strong willingess to learn
+- ⚡ Strong willingness to learn
 - 🌱 Currently learning Angular
 - 📌 Goals for 2022: Contribute more and improve my skills
 
