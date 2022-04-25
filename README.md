@@ -13,8 +13,12 @@
 <table>
   <tr>
      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/83786009/165189818-8b48dcef-c6a7-49e5-8f42-cda9fe6d298c.png" width="48" height="48" alt="C++" />
-      <br>C++
+        <img src="https://user-images.githubusercontent.com/83786009/165189818-8b48dcef-c6a7-49e5-8f42-cda9fe6d298c.png" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+     <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/83786009/165189987-046d5c1a-a20f-45fb-84cd-08d5d28b9397.png" width="48" height="48" alt="Java"/>
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
         <img src="./img/c++.png" width="48" height="48" alt="C++" />
