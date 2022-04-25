@@ -17,8 +17,8 @@
       <br>Java
     </td>
      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/83786009/165189987-046d5c1a-a20f-45fb-84cd-08d5d28b9397.png" width="48" height="48" alt="Java"/>
-      <br>Spring Boot
+        <img src="https://user-images.githubusercontent.com/83786009/165190195-1b342cb1-05c2-468f-aab6-9bd2fc6defde.png" width="48" height="48" alt="Java"/>
+      <br>Spring
     </td>
     <td align="center" width="96">
         <img src="./img/c++.png" width="48" height="48" alt="C++" />
