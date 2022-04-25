@@ -3,7 +3,7 @@
 - 📚 Studying to be a Web developer
 - 🏢 Demonstrator at University "Džemal Bijedić" and 2nd year Business ICT student
 - ⚡ Strong willingness to learn
-- 🌱 Currently learning Angular
+- 🌱 Currently learning backend development in Java and Spring Boot
 - 📌 Goals for 2022: Contribute more and improve my skills
 
 <h2 align="left">Favorite Tech</h2>
