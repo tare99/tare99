@@ -1,10 +1,8 @@
 ![Vanilla-7 1s-286px](https://user-images.githubusercontent.com/83786009/153525576-40d9df96-74bf-43c6-aa4c-313b9164e9ab.svg)
 
-- 📚 Studying to be a Web developer
-- 🏢 Demonstrator at University "Džemal Bijedić" and 2nd year Business ICT student
-- ⚡ Strong willingness to learn
-- 🌱 Currently learning backend development in Java and Spring Boot
-- 📌 Goals for 2022: Contribute more and improve my skills
+- 🏢 Working as a backend developer in Java & Spring Boot at NSoft Company
+- 🎓 Bachelors's degree at University "Džemal Bijedić" Mostar, Business ICT
+- 📌 Goals for 2023: Learn NextJS
 
 <h2 align="left">Favorite Tech</h2>
 
