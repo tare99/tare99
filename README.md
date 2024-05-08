@@ -2,7 +2,6 @@
 
 - 🏢 Working as a backend developer in Java & Spring Boot at NSoft Company
 - 🎓 Bachelors's degree at University "Džemal Bijedić" Mostar, Business ICT
-- 📌 Goals for 2023: Learn NextJS
 
 <h2 align="left">Favorite Tech</h2>
 
