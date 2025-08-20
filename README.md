@@ -1,7 +1,8 @@
 ![Vanilla-7 1s-286px](https://user-images.githubusercontent.com/83786009/153525576-40d9df96-74bf-43c6-aa4c-313b9164e9ab.svg)
 
-- 🏢 Working as a software developer in Java at Sportradar
-- 🎓 Master's degree at University "Džemal Bijedić" Mostar, Business ICT
+- Working as a software developer in Java at Sportradar
+- Master's degree at University "Džemal Bijedić" Mostar, Business ICT
+- Current stack: Java, Spring Boot, Kafka, RMQ, K8s
 
 <h2 align="left">Connect with me</h2>
 
